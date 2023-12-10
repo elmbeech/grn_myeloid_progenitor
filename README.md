@@ -1,7 +1,6 @@
 # Boolean transcription factor network for hierarchical differentiation of myeloid progenitor cells
 
 ## Abstract
-
 + Language: python3 [>= 3.8](https://devguide.python.org/versions/)
 + Library dependencies: ipywidgets, matplotlib, numpy, pandas, tellurium.
 + Date: autumn 2023
@@ -14,10 +13,9 @@
   python3 tellurium implementation and analysis from
   [krumsiek et al.'s 2011 published](https://doi.org/10.1371/journal.pone.0022649)
   myeloid progenitor cells differentiation gene regulatory network.
-
++ This notebook is my semester work for class [ENGR E542 Introduction to Computational Bioengineering](https://academics.iu.edu/courses/bloomington/engr-e-542-introduction-to-computational-bioengineering.html) by Prof. James Glazier.
 
 ## Run on google colab
-
 1. In a web browser open:
    https://github.com/elmbeech/grn_myeloid_progenitor/blob/main/engr_e542_fall2023_sysbio_network_project_sim.ipynb
 1. Click the: `Open in Colab` link.
@@ -25,9 +23,7 @@
 1. Once the first cell is run, it will crash with the message: `Your session crashed for an unknowenreason.`
 1. No worries! All fine. Now you can continue to run the other cells as usual.
 
-
 ## Run locally
-
 1. It is assumed python3 and all library dependencies are installed and running.
 1. Clone the notebook locally: `git clone https://github.com/elmbeech/grn_myeloid_progenitor.git`
 1. Open the notebook: `jupyter lab engr_e542_fall2023_sysbio_network_project_sim.ipynb`
