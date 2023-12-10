@@ -6,7 +6,7 @@
 + Date: autumn 2023
 + Author: Elmar Bucher
 + Contact: https://github.com/elmbeech/grn_myeloid_progenitor/issues
-+ Doi: https://doi.org/10.5281/ZENODO.10343911
++ Doi: [![DOI](https://zenodo.org/badge/728492800.svg)](https://zenodo.org/doi/10.5281/zenodo.10343911)
 + License: [GPL >= v3](https://www.gnu.org/licenses/gpl-3.0.en.html)
 + User manual: this README.md file
 + Description:
