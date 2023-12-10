@@ -3,11 +3,11 @@
 ## Abstract
 + Language: python3 [>= 3.8](https://devguide.python.org/versions/)
 + Library dependencies: ipywidgets, matplotlib, numpy, pandas, tellurium.
++ License: [GPL >= v3](https://www.gnu.org/licenses/gpl-3.0.en.html)
 + Date: autumn 2023
 + Author: Elmar Bucher
 + Contact: https://github.com/elmbeech/grn_myeloid_progenitor/issues
-+ Doi: [![DOI](https://zenodo.org/badge/728492800.svg)](https://zenodo.org/doi/10.5281/zenodo.10343911)
-+ License: [GPL >= v3](https://www.gnu.org/licenses/gpl-3.0.en.html)
++ [![DOI](https://zenodo.org/badge/728492800.svg)](https://zenodo.org/doi/10.5281/zenodo.10343911)
 + User manual: this README.md file
 + Description:
   python3 tellurium implementation and analysis from
