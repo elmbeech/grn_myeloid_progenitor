@@ -30,7 +30,7 @@
 1. Skip the first cell! `libncurses5` and `tellurium` should already be installed.
 1. From the second code cells onwars, run the notebook as usual.
 
-## Cite:
+## Cite
 ```bibtex
 @Misc{bucher2023,
   author    = {Bucher, Elmar},
