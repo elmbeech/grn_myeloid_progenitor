@@ -6,7 +6,7 @@
 + Date: autumn 2023
 + Author: Elmar Bucher
 + Contact: https://github.com/elmbeech/grn_myeloid_progenitor/issues
-+ Doi: https://doi.org/10.5281/ZENODO.8176399
++ Doi: https://doi.org/10.5281/ZENODO.10343911
 + License: [GPL >= v3](https://www.gnu.org/licenses/gpl-3.0.en.html)
 + User manual: this README.md file
 + Description:
@@ -37,7 +37,7 @@
   title     = {elmbeech/grn_myeloid_progenitor: python3 tellurium myeloid progenitor cells differentiation gene regulatory network implementation and analysis.},
   year      = {2023},
   copyright = {Open Access},
-  doi       = {},
+  doi       = {10.5281/ZENODO.10343911},
   publisher = {Zenodo},
 }
 ```
